@@ -1,0 +1,3 @@
+[submodule "6-paging-simulator"]
+	path = 6-paging-simulator
+	url = https://github.com/mgarson/oss-paging-manager.git
